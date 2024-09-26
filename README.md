@@ -1,4 +1,3 @@
-Here’s a sample **README** description for your "Coffee Maker" project, incorporating both the image and video:
 
 ---
 
